@@ -1,5 +1,5 @@
 # Customer Shopping Behavior Analysis
-![Demographics & Sales Performance](report_1.png)
+![Demographics & Sales Performance](images/report_1.png)
 ## 📌 Project Overview
 
 ## 🛠️ Tech Stack & Tools
