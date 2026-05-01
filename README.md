@@ -1,5 +1,4 @@
 # Customer Shopping Behavior Analysis
-
 ## 📌 Project Overview
 The goal of this project was to conduct a **comprehensive end-to-end analysis** of customer behavior using a retail dataset. I focused on transforming raw data into a structured, interactive dashboard that identifies high-value customer segments and evaluates the effectiveness of loyalty programs.
   
