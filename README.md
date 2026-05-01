@@ -9,8 +9,8 @@ This view identifies **who** the customers are and **where** the revenue comes f
 * **Category Deep-Dive:** Sales by Category with a **Tooltip** revealing the **Top 5 Products** for instant detail.
 * **Geographical Insights:** A map visualization linking Total Customers and Sales to specific locations.
 
+### 📊 Page 2: Consumer Loyalty & Purchasing Behavior
 ![Consumer Loyalty & Purchasing Behavior](images/report_2.png)
-## 📊 Page 2: Consumer Loyalty & Purchasing Behavior
 This section focuses on **how** customers shop and what motivates their loyalty to the brand:
 
   
