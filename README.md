@@ -47,6 +47,6 @@ Below are some of the key measures created to drive the analysis:
 * `/images` – A folder containing screenshots of the dashboard and interactive tooltips.
 
 ## 🚀 How to View the Project
-1. **PDF Version:** You can browse the [Report_Preview.pdf](Report_Preview.pdf) to see the full layout quickly.
+1. **PDF Version:** You can browse the [Customer_Shopping_Behavior_Report.pdf](Customer_Shopping_Behavior_Report.pdf) to see the full layout quickly.
 2. **Interactive File:** Download the `.pbix` file and open it in **Power BI Desktop** to explore all measures, filters, and the data model.
 3. **Screenshots:** Check the `/images` folder for high-resolution views of the dashboard and its features.
