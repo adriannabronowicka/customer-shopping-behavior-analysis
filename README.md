@@ -12,7 +12,10 @@ This view identifies **who** the customers are and **where** the revenue comes f
 ### 📊 Page 2: Consumer Loyalty & Purchasing Behavior
 ![Consumer Loyalty & Purchasing Behavior](images/report_2.png)
 This section focuses on **how** customers shop and what motivates their loyalty to the brand:
-
+* **Subscription Status:** A breakdown of Total Customers by subscription type to measure loyalty program penetration.
+* **Engagement Analysis:** Correlation between **Purchase Frequency and Subscription Status** to compare member vs. non-member behavior.
+* **Promotion Impact:** A significant finding showing that **100% of loyalty members use promo codes**, highlighting the primary driver for club retention.
+* **Strategic Takeaways:** A dedicated **Key Insights** section that translates data patterns into clear business conclusions.
   
 ## 🛠️ Tech Stack & Tools
 * **Power BI Desktop** – Data visualization and report building.
