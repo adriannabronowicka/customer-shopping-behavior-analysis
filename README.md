@@ -1,4 +1,5 @@
 # Customer Shopping Behavior Analysis
+
 ## 📌 Project Overview
 The goal of this project was to conduct a **comprehensive end-to-end analysis** of customer behavior using a retail dataset. I focused on transforming raw data into a structured, interactive dashboard that identifies high-value customer segments and evaluates the effectiveness of loyalty programs.
   
@@ -24,3 +25,9 @@ This section focuses on **how** customers shop and what motivates their loyalty 
 * **Power Query** – Data cleaning and transformation.
 * **DAX (Data Analysis Expressions)** – Created calculated measures.
 * **GitHub** – Documentation and project hosting.
+
+## 💡 Key Insights
+Based on the analysis, three strategic areas were identified:
+* **Gender Gap:** Women make up 32% of all customers, but **0% of the loyalty program**. This suggests the current club benefits or marketing fail to attract female shoppers.
+* **Discount Focus:** **100% of club members use promo codes**. This indicates that membership is driven purely by price sensitivity rather than brand emotional loyalty.
+* **Main Customer Group:** The business relies heavily on the **41-60 age segment**, which serves as the most stable and significant revenue driver.
