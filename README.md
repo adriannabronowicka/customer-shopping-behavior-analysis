@@ -30,3 +30,25 @@ Based on the analysis, three strategic areas were identified:
 * **Gender Gap:** Women make up 32% of all customers, but **0% of the loyalty program**. This suggests the current club benefits or marketing fail to attract female shoppers.
 * **Discount Focus:** **100% of club members use promo codes**. This indicates that membership is driven purely by price sensitivity rather than brand emotional loyalty.
 * **Main Customer Group:** The business relies heavily on the **41-60 age segment**, which serves as the most stable and significant revenue driver.
+
+### 📊 Key DAX Measures
+Below are some of the key measures created to drive the analysis:
+
+| Measure Name | Description |
+| :--- | :--- |
+| **Total Sales** | Calculates the overall revenue from all transactions. |
+| **Total Customers** | Counts unique Customer IDs to determine the size of the customer base. |
+| **Avg Purchase Value** | Calculates the average amount spent per transaction. |
+| **Member Promo Rate** | Tracks the percentage of loyalty members using promotional codes. |
+
+---
+
+## 📁 Project Structure
+* `Customer_Shopping_Behavior_Analysis.pbix` – The main Power BI file containing the data model and visuals.
+* `Report_Preview.pdf` – A full PDF export for quick viewing without Power BI software.
+* `/images` – A folder containing screenshots of the dashboard and interactive tooltips.
+
+## 🚀 How to View the Project
+1. **PDF Version:** You can browse the [Report_Preview.pdf](Report_Preview.pdf) to see the full layout quickly.
+2. **Interactive File:** Download the `.pbix` file and open it in **Power BI Desktop** to explore all measures, filters, and the data model.
+3. **Screenshots:** Check the `/images` folder for high-resolution views of the dashboard and its features.
