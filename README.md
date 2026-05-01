@@ -43,7 +43,7 @@ Below are some of the key measures created to drive the analysis:
 
 ## 📁 Project Structure
 * `Customer_Shopping_Behavior_Analysis.pbix` – The main Power BI file containing the data model and visuals.
-* `Report_Preview.pdf` – A full PDF export for quick viewing without Power BI software.
+* `Customer_Shopping_Behavior_Report.pdf` – A full PDF export for quick viewing without Power BI software.
 * `/images` – A folder containing screenshots of the dashboard and interactive tooltips.
 
 ## 🚀 How to View the Project
