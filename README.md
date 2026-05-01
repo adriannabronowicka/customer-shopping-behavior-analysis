@@ -4,6 +4,7 @@ The goal of this project was to conduct a **comprehensive end-to-end analysis** 
   
 ### 📊 Page 1: Demographics & Sales Performance
 ![Demographics & Sales Performance](images/report_1.png)
+
 This view identifies **who** the customers are and **where** the revenue comes from:
 * **Revenue Drivers:** Analysis of Sales by Age Group and Gender to pinpoint the most profitable segments.
 * **Category Deep-Dive:** Sales by Category with a **Tooltip** revealing the **Top 5 Products** for instant detail.
@@ -11,6 +12,7 @@ This view identifies **who** the customers are and **where** the revenue comes f
 
 ### 📊 Page 2: Consumer Loyalty & Purchasing Behavior
 ![Consumer Loyalty & Purchasing Behavior](images/report_2.png)
+
 This section focuses on **how** customers shop and what motivates their loyalty to the brand:
 * **Subscription Status:** A breakdown of Total Customers by subscription type to measure loyalty program penetration.
 * **Engagement Analysis:** Correlation between **Purchase Frequency and Subscription Status** to compare member vs. non-member behavior.
