@@ -1,9 +1,9 @@
 # Customer Shopping Behavior Analysis
-![Demographics & Sales Performance](images/report_1.png)
 ## 📌 Project Overview
 The goal of this project was to conduct a **comprehensive end-to-end analysis** of customer behavior using a retail dataset. I focused on transforming raw data into a structured, interactive dashboard that identifies high-value customer segments and evaluates the effectiveness of loyalty programs.
   
 ### 📊 Page 1: Demographics & Sales Performance
+![Demographics & Sales Performance](images/report_1.png)
 This view identifies **who** the customers are and **where** the revenue comes from:
 * **Revenue Drivers:** Analysis of Sales by Age Group and Gender to pinpoint the most profitable segments.
 * **Category Deep-Dive:** Sales by Category with a **Tooltip** revealing the **Top 5 Products** for instant detail.
