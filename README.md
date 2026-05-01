@@ -41,8 +41,6 @@ Below are some of the key measures created to drive the analysis:
 | **Avg Purchase Value** | Calculates the average amount spent per transaction. |
 | **Member Promo Rate** | Tracks the percentage of loyalty members using promotional codes. |
 
----
-
 ## 📁 Project Structure
 * `Customer_Shopping_Behavior_Analysis.pbix` – The main Power BI file containing the data model and visuals.
 * `Report_Preview.pdf` – A full PDF export for quick viewing without Power BI software.
