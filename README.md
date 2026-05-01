@@ -32,14 +32,17 @@ Based on the analysis, three strategic areas were identified:
 * **Main Customer Group:** The business relies heavily on the **41-60 age segment**, which serves as the most stable and significant revenue driver.
 
 ### 📊 Key DAX Measures
-Below are some of the key measures created to drive the analysis:
+Below are the core measures created to drive the analysis and provide business insights:
 
 | Measure Name | Description |
 | :--- | :--- |
-| **Total Sales** | Calculates the overall revenue from all transactions. |
+| **Total Sales** | Calculates the total revenue across all transactions. |
 | **Total Customers** | Counts unique Customer IDs to determine the size of the customer base. |
-| **Avg Purchase Value** | Calculates the average amount spent per transaction. |
-| **Member Promo Rate** | Tracks the percentage of loyalty members using promotional codes. |
+| **Total Orders** | Measures the total volume of transactions. |
+| **AVG Order Value** | Calculates the average spend per transaction. |
+| **Club Members Count** | Identifies the number of customers enrolled in the loyalty program. |
+| **Sales Members** | Isolates revenue generated specifically by loyalty program participants. |
+| **Sales Deviation** | Measures the variance in sales performance, helping identify trends and fluctuations. |
 
 ## 📁 Project Structure
 * `Customer_Shopping_Behavior_Analysis.pbix` – The main Power BI file containing the data model and visuals.
