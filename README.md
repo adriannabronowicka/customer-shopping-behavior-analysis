@@ -82,4 +82,4 @@ Below you can find the files included in this repository and how to access them:
 
 ## 📌 Author
 **Adrianna Bronowicka**  
-*Power BI & Data Analytics Portfolio Project*
+Power BI & Data Analytics Portfolio Project
