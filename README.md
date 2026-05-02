@@ -42,7 +42,7 @@ Below are the core measures created to drive the analysis and provide business i
 | **AVG Order Value** | Calculates the average spend per transaction. |
 | **Club Members Count** | Identifies the number of customers enrolled in the loyalty program. |
 | **Sales Members** | Isolates revenue generated specifically by loyalty program participants. |
-| **Sales Deviation** | Oblicza różnicę między lokalną sprzedażą a średnią krajową, aby uwidocznić różnice w wynikach w poszczególnych regionach. |
+| **Sales Deviation** | Calculates the difference between local sales and the national average to highlight geographical performance gaps. |
 
 ## 🚀 Project Navigation & Viewing
 Below you can find the files included in this repository and how to access them:
