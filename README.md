@@ -47,6 +47,6 @@ Below are the core measures created to drive the analysis and provide business i
 ## 🚀 Project Navigation & Viewing
 Below you can find the files included in this repository and how to access them:
 
-* 📄 **[Customer_Shopping_Behavior_Report.pdf](Customer_Shopping_Behavior_Report.pdf)** – **Quick Preview.** Click to see the full layout and design without needing Power BI.
-* 📊 **[Customer_Shopping_Behavior_Analysis.pbix](Customer_Shopping_Behavior_Analysis.pbix)** – **Interactive Model.** Download and open in Power BI Desktop to explore all DAX measures, data relationships, and filters.
-* 📁 **[/images](/images)** – **Highlights.** A folder containing high-resolution screenshots of interactive tooltips and specific dashboard views.
+* [Customer_Shopping_Behavior_Report.pdf](Customer_Shopping_Behavior_Report.pdf) – **Quick Preview.** Click to see the full layout and design without needing Power BI.
+* [Customer_Shopping_Behavior_Analysis.pbix](Customer_Shopping_Behavior_Analysis.pbix) – **Interactive Model.** Download and open in Power BI Desktop to explore all DAX measures, data relationships, and filters.
+* [/images](/images) – **Highlights.** A folder containing high-resolution screenshots of interactive tooltips and specific dashboard views.
