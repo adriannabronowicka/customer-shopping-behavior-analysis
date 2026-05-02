@@ -44,12 +44,9 @@ Below are the core measures created to drive the analysis and provide business i
 | **Sales Members** | Isolates revenue generated specifically by loyalty program participants. |
 | **Sales Deviation** | Measures the variance in sales performance, helping identify trends and fluctuations. |
 
-## 📁 Project Structure
-* `Customer_Shopping_Behavior_Analysis.pbix` – The main Power BI file containing the data model and visuals.
-* `Customer_Shopping_Behavior_Report.pdf` – A full PDF export for quick viewing without Power BI software.
-* `/images` – A folder containing screenshots of the dashboard and interactive tooltips.
+## 🚀 Project Navigation & Viewing
+Below you can find the files included in this repository and how to access them:
 
-## 🚀 How to View the Project
-1. **PDF Version:** You can browse the [Customer_Shopping_Behavior_Report.pdf](Customer_Shopping_Behavior_Report.pdf) to see the full layout quickly.
-2. **Interactive File:** Download the `.pbix` file and open it in **Power BI Desktop** to explore all measures, filters, and the data model.
-3. **Screenshots:** Check the `/images` folder for high-resolution views of the dashboard and its features.
+* 📄 **[Customer_Shopping_Behavior_Report.pdf](Customer_Shopping_Behavior_Report.pdf)** – **Quick Preview.** Click to see the full layout and design without needing Power BI.
+* 📊 **[Customer_Shopping_Behavior_Analysis.pbix](Customer_Shopping_Behavior_Analysis.pbix)** – **Interactive Model.** Download and open in Power BI Desktop to explore all DAX measures, data relationships, and filters.
+* 📁 **[/images](/images)** – **Highlights.** A folder containing high-resolution screenshots of interactive tooltips and specific dashboard views.
