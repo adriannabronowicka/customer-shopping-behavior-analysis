@@ -46,7 +46,8 @@ Below are the core measures created to drive the analysis and provide business i
 
 <details>
 <summary><b>🔍 View DAX Code: Sales Deviation (Visual Optimization)</b></summary>
-```dax
+
+  ```dax
 Sales Deviation = 
 VAR TotalSalesAllStates = 
     CALCULATE(
@@ -65,10 +66,12 @@ VAR AverageSales = TotalSalesAllStates / NumberOfStates
 RETURN 
 [Total Sales] - AverageSales
 ```
+
 Why this measure?
 
 The raw sales data across different states was very similar, which caused the map visualization to lack color contrast. I developed this measure to calculate the deviation from the national average. This approach "stretched" the data range, making geographical differences instantly visible and much easier for the user to interpret.
 </details>
+
 
 ## 🚀 Project Navigation & Viewing
 Below you can find the files included in this repository and how to access them:
