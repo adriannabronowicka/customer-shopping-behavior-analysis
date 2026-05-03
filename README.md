@@ -4,8 +4,8 @@ The goal of this project was to conduct a **comprehensive end-to-end analysis** 
 
 ## 📺 Dashboard Demo
 
+https://github.com/user-attachments/assets/a1962e3f-a145-47ce-9baa-0547f20f6691
 
-  
 ### 📊 Page 1: Demographics & Sales Performance
 ![Demographics & Sales Performance](images/report_1.png)
 
