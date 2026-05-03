@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 The goal of this project was to conduct a **comprehensive end-to-end analysis** of customer behavior using a retail dataset sourced from Kaggle. I focused on transforming raw data into a structured, interactive dashboard that identifies high-value customer segments and evaluates the effectiveness of loyalty programs.
 
-## 📺 Dashboard Demo
+## 📊 Interactive Dashboard Preview
 
 https://github.com/user-attachments/assets/a1962e3f-a145-47ce-9baa-0547f20f6691
 
