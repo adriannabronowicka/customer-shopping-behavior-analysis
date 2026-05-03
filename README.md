@@ -6,6 +6,8 @@ The goal of this project was to conduct a **comprehensive end-to-end analysis** 
 
 https://github.com/user-attachments/assets/5c4c1f14-a9fe-46de-8e46-031577f6cff2
 
+The video above demonstrates the interactive features of the dashboard. Detailed descriptions of the charts and pages can be found below.
+
 ### 📊 Page 1: Demographics & Sales Performance
 ![Demographics & Sales Performance](images/report_1.png)
 
